@@ -9,7 +9,7 @@ The dataset used in this project was taken from:
 
 # Files in this Repository
 
-_**CodeBook.md**_ : contains a description of all the variables and summaries calculated, and any other relevant information.
+_**CODEBOOK.md**_ : contains a description of all the variables and summaries calculated, and any other relevant information.
 
 _**run_analysis.R**_ : contains the code the performs the requirements of this project which are the following:
 1. Merges the training and the test sets to create one data set.
