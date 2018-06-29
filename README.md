@@ -11,7 +11,7 @@ The dataset used in this project was taken from:
 
 _**CODEBOOK.md**_ : contains a description of all the variables and summaries calculated, and any other relevant information.
 
-_**run_analysis.R**_ : contains the code the performs the requirements of this project which are the following:
+_**run_analysis.R**_ : contains the code that performs the requirements of this project which are the following:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
