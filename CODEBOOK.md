@@ -23,7 +23,7 @@ The script _**run_analysis.R**_ and performs the following as described in the p
 * _**train**_ : contains the data from X_train.txt file
 * _**trainAct**_ : contains the data from Y_train.txt file
 * _**trainSubj**_ : contains the data from subject_train.txt file 
-* _**train**_ <- : contains the data from combining the trainSubj, trainAct, and train variables
+* _**train**_ : contains the data from combining the trainSubj, trainAct, and train variables
 
 * _**test**_ : contains the data from X_test.txt file
 * _**testAct**_ : contains the data from Y_test.txt file
@@ -33,7 +33,15 @@ The script _**run_analysis.R**_ and performs the following as described in the p
 ## Other Variables used in the script
 
 * _**mergedData**_	: contains the combined test and train data set with selected measurements on the mean and standard deviation.  
-* _**act_Labels**_ : contains the activity labels from the activity_labels.txt file
+* _**act_Labels**_ : contains the activity labels from the activity_labels.txt file 
+* Activity Labels are the following:
+1. WALKING
+2. WALKING_UPSTAIRS 
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
+
 * _**features**_ : contains the data in features.txt
 * _**mean_std_names_only** : contains a list of names of mean and standard deviation measurement 
 * _**all_names**_ : contains a list of names in as indicated in features.txt file
