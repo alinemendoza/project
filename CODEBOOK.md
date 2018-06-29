@@ -33,8 +33,7 @@ The script _**run_analysis.R**_ and performs the following as described in the p
 ## Other Variables used in the script
 
 * _**mergedData**_	: contains the combined test and train data set with selected measurements on the mean and standard deviation.  
-* _**act_Labels**_ : contains the activity labels from the activity_labels.txt file 
-* Activity Labels are the following:
+* _**act_Labels**_ : contains the activity labels from the activity_labels.txt file which are the following:
 1. WALKING
 2. WALKING_UPSTAIRS 
 3. WALKING_DOWNSTAIRS
